@@ -5,12 +5,6 @@ html, body {
 .App {
   text-align: center;
 }
-.toggle {
-  padding: 10px;
-  border: solid 1px #ccc;
-  border-radius: 5px;
-  display: none
-}
 .toggle-header {
   cursor: pointer;
   padding: 10px;
