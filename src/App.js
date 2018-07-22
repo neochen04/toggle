@@ -49,5 +49,4 @@ const Toggle = styled.div`
   padding: 10px;
   border: solid 1px #ccc;
   border-radius: 5px;
-  display: none
 `;
