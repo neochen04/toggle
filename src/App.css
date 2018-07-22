@@ -1,0 +1,26 @@
+html, body {
+  background: #eee;
+  margin: 30px;
+}
+.App {
+  text-align: center;
+}
+.toggle {
+  padding: 10px;
+  border: solid 1px #ccc;
+  border-radius: 5px;
+  display: none
+}
+.toggle-header {
+  cursor: pointer;
+  padding: 10px;
+  text-align: center;
+  font-weight: bold;
+  background: #ccc;
+  color: #369;
+  margin-bottom: 10px;
+}
+.toggle-body {
+  background: #fff;
+  padding: 10px;
+}
